@@ -3,7 +3,7 @@
 }
 
 #enviar:hover{
-    background-color: rgb(2, 100, 55);
+    background-color: rgb(81, 163, 125);
 }
 
 body{
@@ -29,4 +29,8 @@ p{
 
 body{
     background-color: #FFFFFF;
+}
+
+#enviar:hover{
+    background-color: rgb(2, 100, 55);
 }
