@@ -1,0 +1,28 @@
+#actualizar{
+    display: none;
+}
+
+#enviar:hover{
+    background-color: rgb(2, 100, 55);
+}
+
+body{
+    background-color: #375e97;
+}
+
+*{
+    color: #ffbb00;
+}
+
+body{
+    background-color: #FFFFFF;
+}
+
+*{
+    color: #3A5199;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
