@@ -15,7 +15,7 @@ body{
 }
 
 body{
-    background-color: #FFFFFF;
+    background-color: #cf0c0c;
 }
 
 *{
@@ -25,4 +25,8 @@ body{
 p{
     text-align: center;
     font-weight: bold;
+}
+
+body{
+    background-color: #FFFFFF;
 }
